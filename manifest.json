@@ -1,0 +1,14 @@
+{
+    "name": "Jokes App",
+    "version": "1.0",
+    "manifest_version": 3,
+    "description": "A simple app that provides random jokes.",
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "icon.png"
+    },
+    "icons": {
+        "128": "icon.png"
+    },
+    "permissions": ["activeTab"]
+}
